@@ -97,7 +97,15 @@ O dataset foi utilizado exclusivamente para fins de aprendizado, desenvolvimento
 
 # 🖼️ Preview do Dashboard
 
-(Adicionar prints futuramente na pasta `images/`)
+## 📊 Visão dos Filtros e Dashboard
+
+![Dashboard](images/dashboard.png)
+
+---
+
+## 📌 Insights Automáticos
+
+![Insights](images/insight.png)
 
 ---
 
